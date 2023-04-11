@@ -1,4 +1,4 @@
-module github.com/blueicarus/keycloak/v2
+module github.com/BlueIcarus/keycloak/v2
 
 go 1.17
 
