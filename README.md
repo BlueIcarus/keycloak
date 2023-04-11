@@ -12,7 +12,7 @@ keycloak is a Go client library for accessing the [Keycloak API](https://www.key
 ## Installation
 
 ```bash
-go get github.com/zemirco/keycloak/v2
+go get github.com/blueicarus/keycloak/v2
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ package main
 import (
     "context"
 
-    "github.com/zemirco/keycloak/v2"
+    "github.com/blueicarus/keycloak/v2"
     "golang.org/x/oauth2"
 )
 
