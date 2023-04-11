@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/blueicarus/keycloak/v2"
+	"github.com/BlueIcarus/keycloak/v2"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/clientcredentials"
 )
